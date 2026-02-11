@@ -1,11 +1,32 @@
-# my_first_flutter_app
+# My First Flutter App
 
-A new Flutter project.
+This is my first Flutter project.  
+I created this app to learn how Flutter works and how to build mobile applications.
+
+---
+
+## About the Project
+
+This project is a simple Flutter application made for practice.  
+It helps me understand Flutter widgets, layouts, and basic app structure.
+
+---
+
+## Technologies Used
+
+- Flutter
+- Dart
+- VS Code
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project on your computer, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### 1️.Install Flutter
+Make sure Flutter is installed on your system.  
+Check installation by running:
 
-- [Lab: Write your first Hello World Flutter app]
+```bash
+flutter doctor
